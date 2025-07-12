@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tabrez-dev?tab=repositories](https://github.com/Tabrez-dev?tab=repositories)
 
-- 📝 I write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I write articles on [https://medium.com/me/stories/public]([https://medium.com/me/stories/public](https://medium.com/@tabreztalks))
 
 - 💬 Ask me about **Ask me about C, C++, Python, and Embedded Systems**
 
